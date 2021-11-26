@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/flutter-hms-push.iml" filepath="$PROJECT_DIR$/.idea/flutter-hms-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/huaweiPush.iml" filepath="$PROJECT_DIR$/.idea/huaweiPush.iml" />
     </modules>
   </component>
 </project>

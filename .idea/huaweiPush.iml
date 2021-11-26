@@ -9,6 +9,10 @@
       <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-hms-push/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-hms-push/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-hms-push/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-hms-push/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
